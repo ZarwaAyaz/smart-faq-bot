@@ -5,9 +5,11 @@ An AI-powered FAQ Chatbot that uses **TF-IDF** and **Cosine Similarity** to matc
 
 ## 📸 Screenshots
 
-![Chatbot UI](screenshots/image.png)
-![Chatbot Response](screenshots/image.png)
-
+![Chatbot UI](screenshots/output2.png)
+![Chatbot Response](screenshots/output3.png)
+![Chatbot Response](screenshots/output4.png)
+![Chatbot Response](screenshots/output5.png)
+![Chatbot Response](screenshots/noui.png)
 
 ## 🚀 How to Run
 
